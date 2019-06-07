@@ -186,7 +186,7 @@ export PATH=$PATH:$python_home/bin
 
   - `WSGI application`接收由`server`转发的`request`，处理请求，并将处理结果返回给`server`。
 
-    ![wsgi.png-22.9kB](Linux_pic\wsgi.png) 
+    ![wsgi.png-22.9kB](https://github.com/DeerKing007/Linux_Notes/blob/master/Linux-notes/Linux_pic/wsgi.png) 
 
 - 要实现WSGI协议，必须同时实现web server和web application，当前运行在`WSGI`协议之上的`web`框架有`Bottle`, `Flask`, `Django`。 
 
