@@ -30,14 +30,14 @@ Linux包含了Unix的全部功能和特性。Linux具有以下主要特性:
 
 总结：免费、安全、可靠、稳定、多平台。    
 
-![1532349080616](Linux_pic\1532349080616.png)
+![1532349080616](https://github.com/DeerKing007/Linux_Notes/blob/master/Linux-notes/Linux_pic/1532349080616.png)
 
 - 双系统（Linux和Windows同时存在  开机时选择操作系统）  
 - 虚拟机（借助VMware workstation来运行虚拟系统-Linux） 
 
 ### 3、Linux的目录结构（了解）
 
-![1532349391932](Linux_pic\1532349391932.png)
+![1532349391932](https://github.com/DeerKing007/Linux_Notes/blob/master/Linux-notes/Linux_pic/1532349391932.png)
 
 - bin  (binaries)存放二进制可执行文件
 - sbin  (super user binaries)存放二进制可执行文件，只有root才能访问
@@ -533,7 +533,7 @@ vi abc.txt 进入编辑器，此时并不能编辑文本，
 
 #### 1、查看ip地址
 
-![1532360437823](Linux_pic\1532360437823.png) 
+![1532360437823](https://github.com/DeerKing007/Linux_Notes/blob/master/Linux-notes/Linux_pic/1532360437823.png) 
 
 
 
@@ -584,12 +584,12 @@ vi abc.txt 进入编辑器，此时并不能编辑文本，
 192.168.1.100 Mr_lee
 ```
 
-将ip为192.168.1.100 的设置为Mr_lee
+将ip为192.168.1.100 的设置为Mr_zhang
 
 此时可以这样使用：  
 
 ```
-ping Mr_lee   # ping 192.168.1.100 
+ping Mr_zhang   # ping 192.168.1.100 
 ```
 
 
